@@ -1,0 +1,6 @@
+{
+  "name": "MarketPulse AI",
+  "description": "AI-Powered US Stock Market Intelligence, live data, price forecasts, risk analytics, news synthesis, and portfolio tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
